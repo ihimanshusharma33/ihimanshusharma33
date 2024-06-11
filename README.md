@@ -20,11 +20,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ### Programming Languages
-- [**C++**](https://www.w3schools.com/cpp/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
-- [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-- [**PHP**](https://www.php.net) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-- [**Python**](https://www.python.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-- [**TypeScript**](https://www.typescriptlang.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+[**C++**](https://www.w3schools.com/cpp/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> [**PHP**](https://www.php.net) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+[**Python**](https://www.python.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+**TypeScript**](https://www.typescriptlang.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 
 ### Frontend Development
 - [**Bootstrap**](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>
