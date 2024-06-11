@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 - 🔭 I’m currently looking for internship
+
+---
+
 - 🌱 I’m currently learning Next.js
 <h3 align="center">A passionate frontend developer from India</h3>
 
