@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 - 🔭 I’m currently looking for internship
 
----
-
 - 🌱 I’m currently learning Next.js
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -21,7 +19,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Sure, here is the categorized section for a README file:
 
 ---
 
