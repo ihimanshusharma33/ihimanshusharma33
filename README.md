@@ -15,7 +15,6 @@
 <a href="https://instagram.com/himansh.sharma.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himansh.sharma.98" height="30" width="40" /></a>
 <a href="https://codepen.io/gjjuswhw-the-encoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gjjuswhw-the-encoder" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ihimanshusharma33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ihimanshusharma33" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,8 +59,6 @@
 - [**GraphQL**](https://graphql.org) <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="20" height="20"/>
 
 ---
-
-This structure should provide a clear and organized overview of the technologies used in your project, categorized by their specific roles and functionalities.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihimanshusharma33&show_icons=true&locale=en&layout=compact" alt="himanshu99100" /></p>
 
