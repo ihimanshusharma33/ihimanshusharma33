@@ -1,6 +1,7 @@
 <style>
     a {
-        margin-right: 20px;    }
+        margin-right: 20px;  
+    border:2px solid red;}
 </style>
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 - 🔭 I’m currently looking for internship
