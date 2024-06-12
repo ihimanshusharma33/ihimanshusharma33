@@ -1,8 +1,6 @@
 <style>
-    /* Add margin between anchor tags */
     a {
-        margin-right: 10px; /* Adjust the margin value as needed */
-    }
+        margin-right: 20px;    }
 </style>
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 - 🔭 I’m currently looking for internship
