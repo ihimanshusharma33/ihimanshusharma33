@@ -1,5 +1,5 @@
 # Hi 👋, I'm Himanshu Sharma
-
+<img src="https://tenor.com/en-GB/view/youre-welcome-cute-smile-gif-16728264"/>
 - 🔭 I’m currently looking for an internship
 - 🌱 I’m currently learning Next.js
 
