@@ -1,12 +1,3 @@
-<style>
-
-a {
-
-margin: 0px  30px;
-}
-
-</style>
-
 <h1  align="center">Hi 👋, I'm Himanshu Sharma</h1>
 
 - 🔭 I’m currently looking for internship
@@ -31,11 +22,11 @@ margin: 0px  30px;
 
 <p  align="left">
 
-<a  href="https://linkedin.com/in/https://www.linkedin.com/in/hs991009"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/hs991009"  height="30"  width="40"  /></a>
-<a  href="https://twitter.com/hs991009"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="hs991009"  height="30"  width="40"  /></a>
-<a  href="https://instagram.com/himansh.sharma.98"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="himansh.sharma.98"  height="30"  width="40"  /></a>
-<a  href="https://codepen.io/gjjuswhw-the-encoder"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="gjjuswhw-the-encoder"  height="30"  width="40"  /></a>
-<a  href="https://codesandbox.com/ihimanshusharma33"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"  alt="ihimanshusharma33"  height="30"  width="40"  /></a>
+<a  href="https://linkedin.com/in/https://www.linkedin.com/in/hs991009"  style="margin-right: 30px;" target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/hs991009"  height="30"  width="40"  /></a>
+<a  href="https://twitter.com/hs991009"  style="margin-right: 30px;" target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"   alt="hs991009"  height="30"  width="40"  /></a>
+<a  href="https://instagram.com/himansh.sharma.98" style="margin-right: 30px;"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="margin-right: 30px;"  alt="himansh.sharma.98"  height="30"  width="40"  /></a>
+<a  href="https://codepen.io/gjjuswhw-the-encoder" style="margin-right: 30px;"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="gjjuswhw-the-encoder"  height="30"  width="40"  /></a>
+<a  href="https://codesandbox.com/ihimanshusharma33" style="margin-right: 30px;"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"  alt="ihimanshusharma33"  height="30"  width="40"  /></a>
 
 </p>
 
@@ -48,11 +39,11 @@ margin: 0px  30px;
 ### Programming Languages
 
 <p>
-<a  href="https://www.w3schools.com/cpp/"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus"  width="40"  height="40"/>  </a>
-<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a
-<a  href="https://www.php.net"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  alt="php"  width="40"  height="40"/>  </a>
-<a  href="https://www.python.org"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>
-<a  href="https://www.typescriptlang.org/"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40"  height="40"/>  </a>
+<a  href="https://www.w3schools.com/cpp/" style="margin-right: 30px;"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus"  width="40"  height="40"/>  </a>
+<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin-right: 30px;" target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a
+<a  href="https://www.php.net" style="margin-right: 30px;"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  alt="php"  width="40"  height="40"/>  </a>
+<a  href="https://www.python.org"  style="margin-right: 30px;" target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>
+<a  href="https://www.typescriptlang.org/" style="margin-right: 30px;"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40"  height="40"/>  </a>
 
 </p>
 
